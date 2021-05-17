@@ -1,5 +1,3 @@
-# in analogy to https://github.com/MrtnMndt/OCDVAEContinualLearning/blob/master/lib/Datasets/datasets.py
-
 import os
 import numpy as np
 import glob
