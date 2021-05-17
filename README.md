@@ -63,4 +63,4 @@ Several dataset metrics can be computed:
 
 The results are stored in *results/dataset/architecture/date-time*. To visualize them, as well as the correlations, set the dataset, architecture and save-dir (subdirectory, in which results are saved, which is date-time):
 
-> python3 main.py --dataset ImageNet --architecture DenseNet --save-dir 2021-04-01_10:53:53.776594 --visualize-results
+> python3 main.py --dataset ImageNet --architecture DenseNet --save-dir replace_path_here --visualize-results
