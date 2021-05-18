@@ -119,7 +119,7 @@ if args.dataset == 'CIFAR10':
         vis.visualize_metric_histogram(metrics_test['human_uncertainty'],
                                    'Pred. entropy of human uncertainty',
                                    'Bits', 15,
-                                   os.path.join(dataset.name,'train'))
+                                   os.path.join(dataset.name,'test'))
 
 if args.dataset == 'VOCDetection':
     if 'segcount' in m.evaluation:
