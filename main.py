@@ -129,7 +129,7 @@ if args.dataset == 'VOCDetection':
         vis.visualize_metric_histogram(metrics_train['img_difficulty'][m.evaluation['img_difficulty'].notnull()],
                                    'Image difficulty',
                                    'Human response time in seconds', 50,
-                                   os.path.join(dataset.name,'test'))
+                                   os.path.join(dataset.name,'train'))
     if 'obj_sizes' in m.evaluation:
         vis.visualize_metric_histogram(metrics_train['obj_sizes'],
                                    'Object sizes',
