@@ -1,6 +1,6 @@
 # Code for our paper: When Deep Classifiers Agree: Analyzing Correlations between Learning Order and Image Statistics  
 
-This repository contains PyTorch code for our  [paper](http://to_follow):
+This repository contains PyTorch code for our  [paper](https://arxiv.org/abs/2105.08997):
 
 > **Iuliia Pliushch, Martin Mundt, Nicolas Lupp and Visvanathan Ramesh:
 > *"When Deep Classifiers Agree: Analyzing Correlations between Learning Order and Image Statistics"*
